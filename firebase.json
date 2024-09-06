@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "target": "thegoldentoad-87394",
+    "target": "prod",
     "public": "public",
     "ignore": [
       "firebase.json",
