@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "flameoapp-pyme"
+  },
+  "targets": {
+    "flameoapp-pyme": {
+      "hosting": {
+        "prod": [
+          "flameoapp-pyme"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
