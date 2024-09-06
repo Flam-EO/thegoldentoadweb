@@ -1,12 +1,12 @@
 {
   "projects": {
-    "default": "flameoapp-pyme"
+    "default": "thegoldentoad-87394"
   },
   "targets": {
-    "flameoapp-pyme": {
+    "thegoldentoad-87394": {
       "hosting": {
         "prod": [
-          "flameoapp-pyme"
+          "thegoldentoad-87394"
         ]
       }
     }
